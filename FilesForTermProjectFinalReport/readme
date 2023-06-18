@@ -1,0 +1,4 @@
+This directory is composed of these below.
+1. R Code File for the Term Project Final Report.
+2. CSV File which has each question's ranking by its question quality. This ranking was gained by the new model introduced in the Term Project Final Report.
+3. Python Program to evaluate the performance of the model. It is provided in the Eedi Starter Kit which is public to anyone.
